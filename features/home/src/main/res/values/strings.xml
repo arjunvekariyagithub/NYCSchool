@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="retry">Retry</string>
+    <string name="sat_scores">Average SAT Scores</string>
+    <string name="number_of_test_takers">Number of test takers:   %s</string>
+    <string name="math_scores">Math score:   %s</string>
+    <string name="reading_scores">Reading score:   %s</string>
+    <string name="writing_scores">Writing score:   %s</string>
+</resources>
